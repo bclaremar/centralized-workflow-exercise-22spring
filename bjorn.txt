@@ -1,0 +1,3 @@
+git graph
+#oh I forgot this:
+git log --oneline
